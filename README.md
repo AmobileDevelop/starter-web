@@ -15,3 +15,7 @@ some text
 This is a simple web project
 
 ## How to contribute
+
+### Copyright
+
+2021

@@ -8,8 +8,10 @@ This is example to show
 
 ## Purpose
 
+some text
+
 ## Deployment 
 
-Sample website with plenty of files for demos
+This is a simple web project
 
 ## How to contribute

@@ -16,6 +16,8 @@ This is a simple web project
 
 ## How to contribute
 
+Please fork this
+
 ### Copyright
 
 2021

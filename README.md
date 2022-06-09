@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a simple website project. Adding more text, more changes from myfeature
+This is a simple website project. Adding more text, more changes from myfeature.
+Updating emergency fix stash
 
 ## Introduction
 
